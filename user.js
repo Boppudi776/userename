@@ -1,1 +1,1 @@
-var a = "Manikanta";
+let a = "Manikanta";
